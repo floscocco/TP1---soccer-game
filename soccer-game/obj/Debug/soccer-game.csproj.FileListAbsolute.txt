@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\bin\Debug\soccer-game.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\bin\Debug\soccer-game.exe
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\bin\Debug\soccer-game.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\obj\Debug\soccer-game.exe
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\obj\Debug\soccer-game.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\soccer-game\soccer-game\obj\Debug\soccer-game.csprojResolveAssemblyReference.cache
